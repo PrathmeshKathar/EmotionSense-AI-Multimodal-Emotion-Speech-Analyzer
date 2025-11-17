@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+deepface
+plotly
+opencv-python
+av
