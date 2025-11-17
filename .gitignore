@@ -1,0 +1,7 @@
+.env
+temp_audio/
+models/
+__pycache__/
+*.pyc
+*.mp4
+*.wavgit add 
