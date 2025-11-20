@@ -16,7 +16,7 @@ Built using Streamlit, DeepFace, Vosk, FFmpeg, and Gemini LLM.
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](Screenshots\Screenshot (1120).png)
+![Main Interface](screenshots/Screenshot(1120).png)
 
 ### Real-Time Emotion Detection
 ![Real-Time Detection](screenshots/Screenshot(1121).png)
