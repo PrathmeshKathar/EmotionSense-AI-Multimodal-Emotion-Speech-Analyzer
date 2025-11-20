@@ -25,10 +25,11 @@ Built using Streamlit, DeepFace, Vosk, FFmpeg, and Gemini LLM.
 ![Video Upload](screenshots/3.png)
 
 ### Emotion Analytics Dashboard
-![Analytics Dashboard](screenshots/4.pngg)
+![Emotion Analytics Dashboard](screenshots/4.png)
 
 ### AI Summary Results
 ![AI Summary](screenshots/5.png)
+
 
 ## 🚀 Features
 
