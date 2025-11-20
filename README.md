@@ -16,19 +16,19 @@ Built using Streamlit, DeepFace, Vosk, FFmpeg, and Gemini LLM.
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/Screenshot(1120).png)
+![Main Interface](screenshots/1.png)
 
 ### Real-Time Emotion Detection
-![Real-Time Detection](screenshots/Screenshot(1121).png)
+![Real-Time Detection](screenshots/2.png)
 
 ### Video Upload & Processing
-![Video Upload](screenshots/Screenshot(1122).png)
+![Video Upload](screenshots/3.png)
 
 ### Emotion Analytics Dashboard
-![Analytics Dashboard](screenshots/Screenshot(1124).pngg)
+![Analytics Dashboard](screenshots/4.pngg)
 
 ### AI Summary Results
-![AI Summary](screenshots/Screenshot(1125).png)
+![AI Summary](screenshots/5.png)
 
 ## 🚀 Features
 
